@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on developing templates for interactive maps and custom report templates and understanding `tidycensus`
 - 🌱 I’m currently learning custom functions, analysis of complex survey data, text mining
 - 🛠️I’m looking to collaborate on building beautiful and intuitive data dashboards for decision-making
-- 🤔 I’m looking for help with designing custom reports in Quarto, record linkage, using APIs efficiently
+- 🤔 I’m looking for help with designing custom reports in Quarto, record linkage, using APIs efficiently, developing interactive, data-driven apps with Shiny
 - 💬 Ask me about measuring suicide-related outcomes 
 - ✨ Pronouns: she/her
 - 🎥 Fun fact: classic film enthusiast, low-key runner
