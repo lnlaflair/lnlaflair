@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with designing custom reports in Quarto, record linkage, using APIs efficiently, developing interactive, data-driven apps with Shiny
 - 💬 Ask me about measuring suicide-related outcomes 
 - ✨ Pronouns: she/her
-- 🎥 Fun fact: classic film enthusiast, low-key runner
+- 🎥 Fun facts: classic film enthusiast, low-key runner, astrophile
 
 <!--
 **lnlaflair/lnlaflair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
