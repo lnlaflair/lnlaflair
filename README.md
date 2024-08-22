@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on templates for interactive maps and custom reports, and converting a `flexdashboard` of my film log on Letterboxd to a Quarto dashboard!
-- 🌱 I’m currently learning `quarto` and `shiny` (ShinyConf 2024!), SQL, analysis of complex survey data and text mining in R
+- 🔭 I’m currently working on Quarto templates for interactive maps and custom reports, scrollytelling in Quarto, and converting a `flexdashboard` of my film log on Letterboxd to a Quarto dashboard!
+- 🌱 I’m currently learning `quarto` and `shiny`, SQL, analysis of complex survey data and text mining in R
 - 🛠️ I’m looking to collaborate on building beautiful and intuitive data dashboards for decision-making
 - 🤔 I’m looking for help with designing custom reports in Quarto, record linkage, using APIs efficiently, developing interactive, data-driven apps with Shiny
 - 💬 Ask me about mortality data and measuring suicide-related outcomes 
